@@ -15,5 +15,6 @@ n = string['people']
 
 print (n[1][1])
 
+
 rank = {}
  
